@@ -10,7 +10,7 @@ echo Install DEV Tools
 choco install -y git fiddler cygwin vim
 
 echo Install SysAdm Tools
-choco install -y autoit notepadplusplus wireshark 7zip console2
+choco install -y autoit notepadplusplus wireshark 7zip console2 virtualclonedrive
 
 echo Install Virtualization Tools
 choco install -y virtualbox vagrant
